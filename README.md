@@ -126,8 +126,9 @@ while True:
     else:
         print("Upss ada yang salah, silahkan cek kembali.") ```
 
-# Hasil Outputnya
 
+
+# Hasil Outputnya
 
 ![Screenshot (244)](https://user-images.githubusercontent.com/115516632/211159416-e4ff9588-862f-4375-b305-cb123ccddb7b.png)
 
