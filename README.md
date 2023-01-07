@@ -90,6 +90,59 @@
 
 Lalu terakhir kita eksekusi file main.py
 
+``` from model.daftar_nilai import *
+from view.view_nilai import *
+
+#Mulai
+print("===============================================================")
+print("|                           Program 1                         |")
+print("===============================================================")
+
+while True:
+    print("\n")
+    menu = input("(L) Lihat, (T) Tambah, (H) Hapus, (U) Ubah, (C) Cari, (K) Keluar\nPilih menu: ")
+    print("\n")
+
+    # menu
+    if menu.lower() == 't':
+        tambah_data()
+
+    elif menu.lower() == 'c':
+        cari_data()
+
+    elif menu.lower() == 'l':
+        lihat_data()
+
+    elif menu.lower() == 'u':
+        ubah_data()
+
+    elif menu.lower() == 'h':
+        hapus_data()
+
+    # Keluar
+    elif menu.lower() == 'k':
+        break
+
+    else:
+        print("Upss ada yang salah, silahkan cek kembali.") ```
+
+# Hasil Outputnya
+
+
+![Screenshot (244)](https://user-images.githubusercontent.com/115516632/211159416-e4ff9588-862f-4375-b305-cb123ccddb7b.png)
+
+![Screenshot (245)](https://user-images.githubusercontent.com/115516632/211159471-38d6f9d1-91ce-4668-83f5-afbcf57a79ab.png)
+
+![Screenshot (246)](https://user-images.githubusercontent.com/115516632/211159496-edc61295-525d-473e-a367-e1dd2c917804.png)
+
+![Screenshot (247)](https://user-images.githubusercontent.com/115516632/211160374-79956cd0-f759-4d29-9f89-4f99a0fea68c.png)
+
+![Screenshot (249)](https://user-images.githubusercontent.com/115516632/211160512-df699fb7-0971-4832-b3f1-f0083a1cf908.png)
+
+![Screenshot (250)](https://user-images.githubusercontent.com/115516632/211160572-16112772-310a-49f0-877d-7f5955b1b365.png)
+
+![Screenshot (252)](https://user-images.githubusercontent.com/115516632/211160633-68b69659-0687-4aef-9ae1-f9d5739ea303.png)
+
 
 
 
