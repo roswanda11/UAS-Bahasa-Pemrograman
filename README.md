@@ -90,7 +90,7 @@
 
 Lalu terakhir kita eksekusi file main.py
 
-``` from model.daftar_nilai import *
+from model.daftar_nilai import *
 from view.view_nilai import *
 
 #Mulai
