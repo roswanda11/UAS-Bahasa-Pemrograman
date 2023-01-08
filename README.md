@@ -124,7 +124,14 @@ while True:
         break
 
     else:
-        print("Upss ada yang salah, silahkan cek kembali.") ```
+        print("Upss ada yang salah, silahkan cek kembali.")
+
+
+
+
+
+
+
 
 
 
@@ -146,9 +153,15 @@ while True:
 
 
 
+# Dokumentasi
 
+# Youtube
 
+[KLIK DISINI]https://youtu.be/bU-6WGl_XyY 
 
+# PDF
+
+[KLIK DISINI]
 
 
 
