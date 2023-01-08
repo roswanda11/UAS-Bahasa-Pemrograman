@@ -157,11 +157,11 @@ while True:
 
 # Youtube
 
-[KLIK DISINI]https://youtu.be/bU-6WGl_XyY 
+[KLIK DISINI](https://youtu.be/bU-6WGl_XyY)
 
 # PDF
 
-[KLIK DISINI]
+[KLIK DISINI](https://drive.google.com/file/d/17LG_smm23ceYh192WiPw-oFflk8Bo_Px/view?usp=drivesdk)
 
 
 
