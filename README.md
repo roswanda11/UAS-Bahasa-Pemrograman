@@ -137,17 +137,29 @@ while True:
 
 # Hasil Outputnya
 
+### Tambah Data
+
 ![Screenshot (244)](https://user-images.githubusercontent.com/115516632/211159416-e4ff9588-862f-4375-b305-cb123ccddb7b.png)
 
+### Lihat Data
+
 ![Screenshot (245)](https://user-images.githubusercontent.com/115516632/211159471-38d6f9d1-91ce-4668-83f5-afbcf57a79ab.png)
+
+### Ubah Data + Lihat Data
 
 ![Screenshot (246)](https://user-images.githubusercontent.com/115516632/211159496-edc61295-525d-473e-a367-e1dd2c917804.png)
 
 ![Screenshot (247)](https://user-images.githubusercontent.com/115516632/211160374-79956cd0-f759-4d29-9f89-4f99a0fea68c.png)
 
+### Cari Data
+
 ![Screenshot (249)](https://user-images.githubusercontent.com/115516632/211160512-df699fb7-0971-4832-b3f1-f0083a1cf908.png)
 
+### Hapus Data + Lihat Data
+
 ![Screenshot (250)](https://user-images.githubusercontent.com/115516632/211160572-16112772-310a-49f0-877d-7f5955b1b365.png)
+
+### Keluar
 
 ![Screenshot (252)](https://user-images.githubusercontent.com/115516632/211160633-68b69659-0687-4aef-9ae1-f9d5739ea303.png)
 
