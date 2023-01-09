@@ -16,7 +16,7 @@
 
 > Tambah data
 
-- ``` data{} ``` untuk menampung list data yang nanti akan terinput
+- ``` data{} ``` untuk menampung list data yang nanti akan terinput ketika program dijalankan
 
 - deklarasikan fungsi ``` def tambah_data(): ```
 
