@@ -44,7 +44,7 @@
 
 - lalu cetak ``` print("\nBerhasil ubah data!") ```
 
-- jika kita ingin mengubah data tertentu maka ``` elif sub_data.lower() == "nim": data[nama][1] = input("NIM:") ''' dan berlaku juga untuk nilai tugas, UTS dan UAS
+- jika kita ingin mengubah data tertentu maka ``` elif sub_data.lower() == "nim": data[nama][1] = input("NIM:") ``` dan berlaku juga untuk nilai tugas, UTS dan UAS
 
 - lalu cetak ``` print("\nBerhasil ubah data!") ```
 
@@ -90,48 +90,43 @@
 
 Lalu terakhir kita eksekusi file main.py
 
-from model.daftar_nilai import *
-from view.view_nilai import *
-
-#Mulai
-print("===============================================================")
-print("|                           Program 1                         |")
-print("===============================================================")
-
-while True:
-    print("\n")
-    menu = input("(L) Lihat, (T) Tambah, (H) Hapus, (U) Ubah, (C) Cari, (K) Keluar\nPilih menu: ")
-    print("\n")
-
-    # menu
-    if menu.lower() == 't':
-        tambah_data()
-
-    elif menu.lower() == 'c':
-        cari_data()
-
-    elif menu.lower() == 'l':
-        lihat_data()
-
-    elif menu.lower() == 'u':
-        ubah_data()
-
-    elif menu.lower() == 'h':
-        hapus_data()
-
-    # Keluar
-    elif menu.lower() == 'k':
-        break
-
-    else:
-        print("Upss ada yang salah, silahkan cek kembali.")
 
 
+                from model.daftar_nilai import *
+                from view.view_nilai import *
 
+                #Mulai
+                print("===============================================================")
+                print("|                           Program 1                         |")
+                print("===============================================================")
 
+                while True:
+                    print("\n")
+                    menu = input("(L) Lihat, (T) Tambah, (H) Hapus, (U) Ubah, (C) Cari, (K) Keluar\nPilih menu: ")
+                    print("\n")
 
+                    # menu
+                    if menu.lower() == 't':
+                        tambah_data()
 
+                    elif menu.lower() == 'c':
+                        cari_data()
 
+                    elif menu.lower() == 'l':
+                        lihat_data()
+
+                    elif menu.lower() == 'u':
+                        ubah_data()
+
+                    elif menu.lower() == 'h':
+                        hapus_data()
+
+                    # Keluar
+                    elif menu.lower() == 'k':
+                        break
+
+                    else:
+                        print("Upss ada yang salah, silahkan cek kembali.")
 
 
 
