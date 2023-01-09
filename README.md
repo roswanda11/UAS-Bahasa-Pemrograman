@@ -44,7 +44,7 @@
 
 - lalu cetak ``` print("\nBerhasil ubah data!") ```
 
-- jika kita ingin mengubah data tertentu maka ``` elif sub_data.lower() == "nim": data[nama][1] = input("NIM:") dan berlaku juga untuk nilai tugas, UTS dan UAS
+- jika kita ingin mengubah data tertentu maka ``` elif sub_data.lower() == "nim": data[nama][1] = input("NIM:") ''' dan berlaku juga untuk nilai tugas, UTS dan UAS
 
 - lalu cetak ``` print("\nBerhasil ubah data!") ```
 
