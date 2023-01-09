@@ -20,7 +20,7 @@
 
 - deklarasikan fungsi ``` def tambah_data(): ```
 
-- ``` nama = input("Masukan nama:") ``` lalu tambahkan input nama, nim, nilai tugas, uts, uas
+- ``` nama = input("Masukan nama:") ``` lalu kita tambahkan input nama, nim, nilai tugas, uts, uas
 
 - ``` nilai_akhir = (nilai_tugas)*30/100 + (nilai_uts)*35/100 + (nila_uas)*35/100 ``` untuk nilai akhir diambil dari perhitungan 3 komponen nilai (nilai_tugas:30%, nilai_uts:35%, nilai_uas:35%)
 
@@ -168,7 +168,7 @@ Lalu terakhir kita eksekusi file main.py
 
 # PDF
 
-[KLIK DISINI](https://drive.google.com/file/d/17LG_smm23ceYh192WiPw-oFflk8Bo_Px/view?usp=drivesdk)
+[KLIK DISINI](https://drive.google.com/file/d/17P5sdAIOAQZXZ3GDkGHlAHCL_28lwRvu/view?usp=drivesdk)
 
 
 
